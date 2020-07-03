@@ -1,0 +1,37 @@
+
+body{
+  font-family: monospace;
+  background: #282828;
+  margin-top: 200px;
+}
+
+h1 {
+  color: #FF5845;
+  font-weight: 800;
+  text-align: center;
+  font-size: 4em;
+}
+
+div#space {
+  color:white;
+  text-align: center;
+  font-weight: 200;
+  border-style: solid;
+  border-radius: 1em;
+  border-color: #FF5845;
+  padding: 15px;
+  margin: auto;
+  width: 500px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+}
+
+div#res {
+  color: #FF5845;
+  font-size: 2em;
+}
+
+input#binary{
+  text-align: center;
+  font-size: 1em;
+  width: 6rem;
+}
