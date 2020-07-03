@@ -1,4 +1,4 @@
-function bin2dec(){
+document.querySelector('input#bin2dec').onclick = () => {
   let binary = String (document.getElementById('binary').value);
   let res = document.getElementById('res');
 
